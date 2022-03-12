@@ -8,6 +8,9 @@ class Person {
     public:
         int getAge(){return age;}
         string getSex(){return (age == 0) ? "male" : "female";}
+        string ReturnFullFamilyLine(){
+            
+        }
     private: 
         unsigned int age;
         string name;
