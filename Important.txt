@@ -5,7 +5,10 @@ First, initialize repository
     It might ask you to choose the folder you wish to use
     otherwise, it will show you the files you have committed and those you do not(U)
     
+    when creating a new folder/project call "init" in the area to type, its going to want you to assign it to a 
+    remote repository(Github link you must create)
 
+    
 
 
 Pushing
