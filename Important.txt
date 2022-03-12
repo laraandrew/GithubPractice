@@ -1,0 +1,22 @@
+Alright so below we will find a quick run down on what must be done and all the different processes of Github including:
+
+First, initialize repository
+    press : control-shift-G or the 3 dot thing on the side
+    It might ask you to choose the folder you wish to use
+    otherwise, it will show you the files you have committed and those you do not(U)
+    
+
+
+
+
+Pushing
+
+Pulling
+
+Committing
+
+Cloning
+
+Creating Repositories
+
+Other?
